@@ -24,13 +24,12 @@ if computer == 1:
 if computer == 2:
     sys.path.insert(0, "E:/Dropbox/Research/ManifoldLearning/")
     base_path = "E:/Dropbox/Research/ManifoldLearning/"
-import Patch_Model_4
-import PatchandField_Model_4
-import PatchConfidence_Model_4
-import PatchLearnedConfidence_Model_4
-import Patch_Model_10
-import PatchConvolution_Model_10
-import Unity_Model_10
+import Chart_Model_4
+#import PatchandField_Model_4
+#import PatchConfidence_Model_4
+#import PatchLearnedConfidence_Model_4
+import Chart_Model_10
+#import ChartConvolution_Model_10
 import Standard_Model 
 
 import datetime
